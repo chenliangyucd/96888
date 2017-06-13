@@ -1,0 +1,9 @@
+1.后台node.js koa  数据库基本上就是mongodb了。
+2.前台webpack打包编译。或者gulp这个一会再看看。部署在nginx上。
+
+
+
+周一到周日。。最少搭建完成后台koa。。。三天看完
+
+
+webpack两天看完吧
