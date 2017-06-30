@@ -1,0 +1,12 @@
+AppID: wx899a0ee30ff60213
+
+AppSecret: 7bfa5249ef09afbe5b0f1987e36c4dd2
+
+
+url: http://chenliangyu.viphk.ngrok.org/
+
+
+token: chenliangyutoken
+
+
+EncodingAESKey: Xkm9DJeIrrk5aGTzOVIZ0ur5R9r4dKrruKElBQ0c1c2
