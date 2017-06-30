@@ -18,5 +18,19 @@
   "bugs": {
     "url": "https://github.com/chenliangyucd/96888/issues"
   },
-  "homepage": "https://github.com/chenliangyucd/96888#readme"
+  "homepage": "https://github.com/chenliangyucd/96888#readme",
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "ejs": "^2.5.6",
+    "heredoc": "^1.3.1",
+    "koa": "^2.2.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.2.1",
+    "log4js": "^1.1.1",
+    "mongoose": "^4.11.0",
+    "raw-body": "^2.2.0",
+    "request": "^2.81.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.17"
+  }
 }
